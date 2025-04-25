@@ -12,7 +12,7 @@ Ce projet a été réalisé dans le cadre du MiniProjet GreenIT à l'EFREI Paris
 ## Déploiement
 Le site a été déployé via [Vercel](https://vercel.com), dans une version **100% front-end** (HTML/CSS/JS uniquement).
 
-Lien vers le site : **[https://ubelicious.vercel.app](https://ubelicious.vercel.app)** *(remplacer par ton lien exact)*
+Lien vers le site : **[https://ubelicious-vitrine.vercel.app/index.html)** 
 
 ## Remarques techniques
 - Ce dépôt contient uniquement la partie front-end.
